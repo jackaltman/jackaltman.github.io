@@ -12,7 +12,7 @@ Open source is a fascinating phenomenon in the world of technology; there is an 
 
 **Open source products fuel the modern internet**
 
-Many of the most powerful and widely used tools are open source, including languages like Ruby and Python, frameworks like Rails and Django, could application platforms like Heroku, operating systems like Linux, web browsers like Mozilla Firefox, and much more.
+Many of the most powerful and widely used tools are open source, including languages like Ruby and Python, frameworks like Rails and Django, could application platforms like Heroku, operating systems like Linux, and web browsers like Mozilla Firefox.
 
 Open source doesn't mean necessarily mean free (although it often is); it means the source code is available to the public so that anyone can look at it, use it, and contribute to it.
 
