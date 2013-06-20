@@ -1,0 +1,47 @@
+---
+layout: post
+title: "Should we do more to incentive open source?"
+date: 2013-06-19 21:57
+comments: true
+categories: 
+---
+
+ ![Open source](http://opensource.org/files/osi_symbol.png) 
+
+Open source is a fascinating phenomenon in the world of technology; there is an enormous wealth of software that is entirely public. Brilliant coders have poured countless hours of work into complex projects and then, instead of protecting their value intellectual property, released it publicly to the world, often for free.
+
+**Open source products fuel the modern internet**
+
+Many of the most powerful and widely used tools are open source, including languages like Ruby and Python, frameworks like Rails and Django, could application platforms like Heroku, operating systems like Linux, web browsers like Mozilla Firefox, and much more.
+
+Open source doesn't mean necessarily mean free (although it often is); it means the source code is available to the public so that anyone can look at it, use it, and contribute to it.
+
+When a new developer enters the startup scene, he is immediately perched onto the shoulders of giants. He gets to use Ruby thanks to Yukihiro Matsumoto, Git thanks to Linus Torvalds, jQuery thanks to John Resig, and the list goes on. The new programmer has only to stand on his metaphorical tip toes to produce awesome pieces of software. Meanwhile, these influential open source contributors get no direct compensation.
+
+**The power of open source**
+
+Collaboration is one of the most powerful forces allowing civilizations to undergo technological progress. Look around a city; skyscrapers are amazing. We built them with materials from the Earth and machines that we built with tools that we built with our bare hands. How did we accomplish this incredible undertaking? Wide-spread sharing of knowledge and collaboration over hundreds of years.
+
+In software, open source is a powerful part of the community that drives significant innovation. Contributors can submit patches to current codebases or add large pieces of functionality. Future early adopters of the software can give feedback in real-time during the development, giving the authors of the code a significant advantage. Once the code is finished (not that code is ever finished), it is available to the entire world, and they can customize the software as they see fit. Open source also protects against product discontinuation (which would have been nice for Google Reader).
+
+**So why do people contribute to open source?**
+
+It goes without saying that open source has huge benefits in terms of production, distribution, and maintenance. But isn't it surprising that accomplished developers spend their valuable time writing and pushing free code out to the internets?
+
+Despite the fact that open source contributors typically don't enjoy any direct gain, there are fortunately several incentives that encourage individuals and corporations to contribute to the canon of open source. Coders build an online presence that helps them get jobs, start companies, or other generally productive things. Companies can get feedback on their software and build relationships with great developers to attract as hiring talent. Best of all, the programming community is still small enough that it feels a sense of camaraderie and desire to "give back", such that a lot of contributions may really be altruistic.
+
+Despite what some its most fervent supports will tell you, open source has some downsides. Version control can get unwieldy and confusing for users. Projects can fall apart when a key developer moves on. Support systems are tenuous because no one is paid to help you when you have problems. And perhaps most importantly of all, individuals and businesses may feel less willing to take risks with early versions of products if they're worried that the whole world will scrutinize them, or worse, that their competitors will steal from them.
+
+**What is the optimal amount of open source software?**
+
+Consider two extremes: at one end, 100% of the code in the world is private, and developers must intentionally share their code with others for it to be seen. At the other, 100% of code is public, and any code anyone writes is immediately part of the public domain.
+
+The world of software today is somewhere in the middle which is definitely where we want it, but have we struck the optimal balance? While there is a incredible set of tools available through the open source community, most of the world's software is still private.
+
+The deeper I get into coding, the more I see the power of open source software. I think it's likely that we would all be better off with more of it. The drawbacks seem to pale in comparison into the opportunity for widespread, real-time, mass human collaboration, both in theory and in practice.
+
+We're lucky that enough natural incentives are in place to generate the robust open source community we have, but I imagine more could be done. Platforms like [Gittip](https://www.gittip.com/) are a nice way to give financial incentives directly to top open source contributors; as you would expect, data suggests that [10%](http://en.wikipedia.org/wiki/Open-source_software) of the world's open source authors have written about three quarters of the open source code. 
+
+Incentivizing open source behavior is tricky; the community is functioning very well as it stands, and it seems likely that there would be a strong backlash to incentive structures that were too anathema to the spirit of the community. However, if someone were creative enough to figure out how to encourage the behavior in an appropriate way, the benefits would be immense.
+
+Although building a company on the heels of the open source community flies in the face of the its spirit, I wouldn't be surprised if we see a more formalized platform spring up to incentivize programmers to develop more software in open source. I hope we do; I think we would all be better off.
