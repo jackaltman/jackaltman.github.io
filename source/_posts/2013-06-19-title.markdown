@@ -1,22 +1,22 @@
 ---
 layout: post
-title: "Should we do more to incentive open source?"
+title: "Should we do more to incentivize open source?"
 date: 2013-06-19 21:57
 comments: true
 categories: 
 ---
 
- ![Open source](http://opensource.org/files/osi_symbol.png) 
+  ![Open source](http://opensource.org/files/osi_symbol.png) 
 
 Open source is a fascinating phenomenon in the world of technology; there is an enormous wealth of software that is entirely public. Brilliant coders have poured countless hours of work into complex projects and then, instead of protecting their value intellectual property, released it publicly to the world, often for free.
 
 **Open source products fuel the modern internet**
 
-Many of the most powerful and widely used tools are open source, including languages like Ruby and Python, frameworks like Rails and Django, could application platforms like Heroku, operating systems like Linux, and web browsers like Mozilla Firefox.
+Many of the most powerful and widely used tools are open source, including languages like [Ruby](https://github.com/ruby/ruby) and [Python](https://github.com/python/python), frameworks like [Rails](https://github.com/rails/rails) and [Django](https://github.com/django/django), cloud application platforms like [Heroku](https://github.com/heroku/heroku), operating systems like [Linux](https://github.com/torvalds/linux), and web browsers like [Mozilla Firefox](https://github.com/mozilla/firefox-flicks).
 
 Open source doesn't mean necessarily mean free (although it often is); it means the source code is available to the public so that anyone can look at it, use it, and contribute to it.
 
-When a new developer enters the startup scene, he is immediately perched onto the shoulders of giants. He gets to use Ruby thanks to Yukihiro Matsumoto, Git thanks to Linus Torvalds, jQuery thanks to John Resig, and the list goes on. The new programmer has only to stand on his metaphorical tip toes to produce awesome pieces of software. Meanwhile, these influential open source contributors get no direct compensation.
+When a new developer enters the startup scene, he is immediately perched onto the shoulders of giants. He gets to use Ruby thanks to [Yukihiro Matsumoto](http://en.wikipedia.org/wiki/Yukihiro_Matsumoto), Git thanks to [Linus Torvalds](http://en.wikipedia.org/wiki/Linus_Torvalds), jQuery thanks to [John Resig](http://en.wikipedia.org/wiki/John_Resig), and the list goes on. The new programmer has only to stand on his metaphorical tip toes to produce awesome pieces of software. Meanwhile, these influential open source contributors get no direct compensation.
 
 **The power of open source**
 
